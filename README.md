@@ -1,11 +1,11 @@
 Group practice made in Adalab by:
 
-Sonia Sanz Vivas[🖇️](https://github.com/Sonia-SV)
+Sonia Sanz Vivas [🖇️Github](https://github.com/Sonia-SV)
 
-Elena Ramírez Reinoso [🖇️](https://github.com/erreinoso)
+Elena Ramírez Reinoso [🖇️Github](https://github.com/erreinoso)
 
-Virginia Gómez Rodríguez [🖇️](https://github.com/VirginiaGomezR)
+Virginia Gómez Rodríguez [🖇️Github](https://github.com/VirginiaGomezR)
 
-Kayla Jean Crane [🖇️](https://github.com/kaylacrane)
+Kayla Jean Crane [🖇️Github](https://github.com/kaylacrane)
 
-Marisol Peña [🖇️](https://github.com/masopego)
+Marisol Peña [🖇️Github](https://github.com/masopego)
