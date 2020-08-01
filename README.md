@@ -1,4 +1,8 @@
-### Group practice made in Adalab by:
+## Botanical profile cards
+Profile cards generator APP made in Adalab. Vanilla JavaScript & HTML & CSS/SASS
+
+### Project team:
+
 
 Sonia Sanz Vivas [🔗](https://github.com/Sonia-SV)
 
